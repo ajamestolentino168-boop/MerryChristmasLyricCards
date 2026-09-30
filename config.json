@@ -1,0 +1,11 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "background": "assets/background.jpg",
+  "audio": "song.mp3",
+  "output": "output.mp4",
+  "font_size": 58,
+  "card_padding": 35,
+  "card_radius": 25
+}
